@@ -1,4 +1,12 @@
-## Hi there 👋
+# ESC
+
+|E| Error|
+|-|-|
+|S|Stress|
+|C|Crying|
+
+
+- 👍
 
 <!--
 **s4k4r4/s4k4r4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
